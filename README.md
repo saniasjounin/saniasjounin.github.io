@@ -8,8 +8,6 @@
 
 Lorem Ipsum
 
----
-
 ## Connect With Me
 
 <div id="badges">
