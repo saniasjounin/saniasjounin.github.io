@@ -1,21 +1,21 @@
 <div id="header" align="center">
   <img src="https://saninbinsdkplugin101.files.wordpress.com/2022/09/frame-1.png" width="100"/>
-  <h1 align="center">Hi 👋, I'm Sani</h1>
+  <h1 align="center">Hi, I'm Sani</h1>
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/saniasjounin">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="#L">
+    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://instagram.com/sanialdiyadi">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <p> <img src="https://komarev.com/ghpvc/?username=saniasjounin&label=Profile%20views&color=0e75b6&style=flat" alt="saniasjounin" /> </p>
 </div>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </div>
 :woman_technologist: About Me :<br/>
 A passionate android developer from Indonesia<br/>
