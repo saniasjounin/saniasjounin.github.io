@@ -1,7 +1,7 @@
 <Sani-as-Jounin>
 
 <div align="center">
-  <img src="https://saninbinsdkplugin101.files.wordpress.com/2022/09/facebook-cover-1.png" width="100%"/>
+  <img src="https://saninbinsdkplugin101.files.wordpress.com/2022/09/facebook-cover-1-1.png" width="100%"/>
 </div>
 
 ## About Me
