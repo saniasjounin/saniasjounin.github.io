@@ -10,14 +10,13 @@
   <a href="https://instagram.com/sanialdiyadi">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <br/>
-    <p> <img src="https://komarev.com/ghpvc/?username=saniasjounin&label=Profile%20views&color=0e75b6&style=flat" alt="saniasjounin" /> </p>
 </div>
 </div>
-<div align="center">
-  
+
+<div align="left">
+  <h1>About me | <img src="https://komarev.com/ghpvc/?username=saniasjounin&label=Profile%20views&color=0276fc&style=plastic" alt="saniasjounin" /></h1>
 </div>
-:woman_technologist: About Me :<br/>
+About Me :<br/>
 A passionate android developer from Indonesia<br/>
 👨‍💻 All of my projects are available at [https://github.com/saniasjounin/portfolio](https://github.com/saniasjounin/portfolio)<br/>
 📫 How to reach me **sanialdiyadi@fastservice.com**
