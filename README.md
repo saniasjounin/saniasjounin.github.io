@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://saninbinsdkplugin101.files.wordpress.com/2022/09/frame-1.png" width="100"/>
-  <h1 align="center">Hi, I'm Sani</h1>
+  <p><img src="https://saninbinsdkplugin101.files.wordpress.com/2022/09/facebook-cover-1.png"/></p>
   <div id="badges">
   <a href="https://t.me/saniasjounin">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -11,6 +10,7 @@
   <a href="https://instagram.com/sanialdiyadi">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <br/>
     <p> <img src="https://komarev.com/ghpvc/?username=saniasjounin&label=Profile%20views&color=0e75b6&style=flat" alt="saniasjounin" /> </p>
 </div>
 </div>
