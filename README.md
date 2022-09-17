@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="#L">
-    <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
+    <img src="https://img.shields.io/badge/facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
   <a href="https://instagram.com/sanialdiyadi">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
