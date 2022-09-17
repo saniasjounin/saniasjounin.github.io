@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi 👋, I'm Sani</h1>
-<h3 align="center">A passionate android developer from Indonesia</h3>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,16 +11,16 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <p> <img src="https://komarev.com/ghpvc/?username=saniasjounin&label=Profile%20views&color=0e75b6&style=flat" alt="saniasjounin" /> </p>
 </div>
 </div>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saniasjounin&label=Profile%20views&color=0e75b6&style=flat" alt="saniasjounin" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/saniasjounin/portfolio](https://github.com/saniasjounin/portfolio)
-
-- 📫 How to reach me **sanialdiyadi@fastservice.com**
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+:woman_technologist: About Me :<br/>
+A passionate android developer from Indonesia<br/>
+👨‍💻 All of my projects are available at [https://github.com/saniasjounin/portfolio](https://github.com/saniasjounin/portfolio)<br/>
+📫 How to reach me **sanialdiyadi@fastservice.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
