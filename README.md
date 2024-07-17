@@ -3,7 +3,8 @@
 <div align="center">
   <img src="https://saninbinsdkplugin101.files.wordpress.com/2022/09/facebook-cover-1-1.png" width="100%"/>
 </div>
-# 💫 About Me:
+
+## 💫 About Me:
 As a freelance developer specializing in Android native and Laravel web development, I bring a wealth of technical expertise and practical experience in crafting innovative and effective software solutions. With the ability to design and implement responsive and intuitive Android applications, as well as build robust and scalable web platforms using the Laravel framework, my goal is to help clients achieve their business objectives through technology. My dedication to high-quality development, coupled with the capability to adapt to change and tackle complex technical challenges, makes me an ideal partner for your software development projects.
 
 
